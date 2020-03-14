@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_MainFragment_to_inputFragment" type="id" />
+    <item name="action_InputFragment_to_inputFragment" type="id" />
+    <item name="action_mainFragment_to_inputFragment" type="id" />
+    <item name="action_inputFragment_to_hasilFragment" type="id" />
+</resources>
